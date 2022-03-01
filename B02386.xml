@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lawyers looking-glass: or, A cleer discovery of the dangerous snares, wherewith the practicers of law endeavour to entangle Your Highness, and to make you the patron of their injustice, and oppression, and so to lead you as the blinde ship-money judges led the late blinde king into a ditch; which God forbid. Together with some seasonable preparatives to remedy this great evill: for the glory of God, Your Highnesses honour, and the peace and welfare of these nations: and, all Gods people both ministers of the gospel, and members of the army, and others: specially in and about the cities of London, and Westminster, are earnestly desired (as they will answer it at the great day of account) to speak words in season, and otherwise use their best endeavours to strengthen the hands of Your Highness and councel in carrying on the work of the Lord against the mighty.</title>
+            <author>Corbet, Jeffrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02386</idno>
+            <idno type="STC">Wing C6245</idno>
+            <idno type="STC">ESTC R171535</idno>
+            <idno type="EEBO-CITATION">52614585</idno>
+            <idno type="OCLC">ocm 52614585</idno>
+            <idno type="VID">175813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175813)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lawyers looking-glass: or, A cleer discovery of the dangerous snares, wherewith the practicers of law endeavour to entangle Your Highness, and to make you the patron of their injustice, and oppression, and so to lead you as the blinde ship-money judges led the late blinde king into a ditch; which God forbid. Together with some seasonable preparatives to remedy this great evill: for the glory of God, Your Highnesses honour, and the peace and welfare of these nations: and, all Gods people both ministers of the gospel, and members of the army, and others: specially in and about the cities of London, and Westminster, are earnestly desired (as they will answer it at the great day of account) to speak words in season, and otherwise use their best endeavours to strengthen the hands of Your Highness and councel in carrying on the work of the Lord against the mighty.</title>
+                  <author>Corbet, Jeffrey.</author>
+                  <author>Pitt, Edward fl. 1655.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jeffery Corbet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Feb. 20. 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jeffrey Corbet. Edward Pitt. 1. Jan. 1655.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawyers --  Great Britain --  Early works to 1800.</term>
+               <term>Legal ethics --  Great Britain --  Early works to 1800.</term>
+               <term>Court administration --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175813:1"/>
+            <pb facs="tcp:175813:1" rendition="simple:additions"/>
+            <p>THE LAWYERS Looking-glaſs: OR, A cleer Diſcovery of the Dangerous Snares, wherewith the Practicers of Law endeavour to entangle Your Highneſs, and to make you the Patron of their Injuſtice, and Oppreſſion, and ſo to lead you as the blinde Ship-money Judges led the late blinde King into a Ditch; Which God forbid.</p>
+            <p>TOGETHER, With ſome ſeaſonable preparatives to remedy this great evill: For the glory of GOD, Your Highneſſes Honour, and the Peace and Welfare of theſe Nations: <hi>AND,</hi> All Gods People both Miniſters of the Goſpel, and Mem<g ref="char:EOLhyphen"/>bers of the Army, and others; ſpecially in and about the Cities of <hi>London,</hi> and <hi>Weſtminſter,</hi> are earneſtly deſired (as they will anſwer it at the great day of Account) to ſpeak words in ſeaſon, and otherwiſe uſe their beſt endeavours to ſtrengthen the hands of Your Highneſs and Councel in carrying on the Work of the Lord againſt the Mighty.</p>
+            <p>LONDON, Printed for Jeffery Corbet. Febr. 20. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="appeal">
+               <pb facs="tcp:175813:2"/>
+               <head>The Lawyers Looking-Glaſſe.</head>
+               <opener>
+                  <salute>May it pleaſe your Highneſſe,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>He Spirit ſaith; Do juſtly, love mercy, looſe the bands of wickedneſs, undoe the heavy burthens, let the oppreſ<g ref="char:EOLhyphen"/>ſed go free, and break every yoke. And, Let judgment run down as waters, and righteouſneſs as a mighty ſtream. And, Execute ye judgment, and righteouſneſs, and deliver the ſpoiled out of the hands of their oppreſſors. And, To do juſtice and judgment, is more acceptable to the Lord then ſacrifice. And, Juſtice exalts a Nation, and the work of Juſtice ſhall be Peace: <hi>Mic.</hi> 6.8. <hi>Iſa.</hi> 58.6. <hi>Amos</hi> 5.24. <hi>Ierem.</hi> 22.3. <hi>Prov.</hi> 14.34. <hi>Iſa.</hi> 32.17. And, Any Cauſe for Debt, or other Civil difference, may be ſpeedily heard, and determined in weekly Courts of Equity in the ſeve<g ref="char:EOLhyphen"/>ral Counties, and coſt the people little or nothing, according to the pra<g ref="char:EOLhyphen"/>ctiſe in the Court of Requeſts, <hi>London,</hi> which ſits twice a week in Guild-Hall, by vertue of a good Law made in the 3d. year of King <hi>Iames,</hi> and the 15th. chapter; and according to the late practiſe in eve<g ref="char:EOLhyphen"/>ry County in <hi>Ireland,</hi> where the Juſtices of Peace did by Comiſſion hear, and determine thouſands of Cauſes, and put the people to little or no charge; the Defendant being warned to appear by ſtrict Summons, without any chargeable, diſgracefull, or vexatious Arreſts or impriſon<g ref="char:EOLhyphen"/>ment, and both parties having liberty to plead their own Cauſes. But the practiſers of Law turn Juſtice and Judgment into Gall and Worm<g ref="char:EOLhyphen"/>wood, and extort vaſt treaſures from the people, by delay and obſtru<g ref="char:EOLhyphen"/>ction of juſtice. And it is moſt clear, That the various ſorts of Writs, Sheriffs fees, Bailiffs fees, Bail fees, Attorneys fees, Solicitors fees, Pro<g ref="char:EOLhyphen"/>thonotaries fees, Secondaries fees, Regiſters fees, Clerks fees, Lawyers fees, Gaolers fees, with multitude of ſuch like, are meerly chargeable, impertinent, and vexatious inventions to delay juſtice, and diſhonour God, and pick the peoples pockets: And thoſe proceedings differ no more from abſolute Robbery, then Hypocriſie doth from open Pro<g ref="char:EOLunhyphen"/>phaneſs; for Theeves take mens money by ſeveral wayes of ſtealing and the practiſers of Law by exacting their wages of unrighteouſneſs And that which is worſt of all, they endeavour to make your Highneſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Patron of all their fraudulent devices, as the Ordinance for alterati<g ref="char:EOLhyphen"/>on of Names, and Forms doth witneſs.</p>
+               <pb facs="tcp:175813:2"/>
+               <p n="2">2. The Spirit ſaith, He that ſtoppeth his ears at the cry of the poor, he ſhall cry, and ſhall not be heard. And, Wo unto them that decree unrighteous Decrees, to turn aſide the Needy from Judgment, and take away the Right from the poor of my people, that Widdows may be their prey, and that they may rob the Fatherleſs. And, As a roaring Li<g ref="char:EOLhyphen"/>on, and a raging Bear, ſo is a wicked Ruler over the poor people: <hi>Pro.</hi> 21.13. <hi>Iſa.</hi> 10.1, 2. <hi>Prov.</hi> 28.15. And the practiſers of Law have the cryes of your poor oppreſſed people continually in their ears yet are they like the deaf Adder, and commonly make a prey of the Wid<g ref="char:EOLhyphen"/>dow and Fatherleſs: and many Cauſes have depended in the Courts at Weſtminſter, ſome 10. ſome 20. yeares, ſome more, ſome leſs, by the Lawyers purpoſed delays of juſtice, for their own ſiniſter ends, to the utter undoing of the oppreſſed people. Moreover, the multitude of un<g ref="char:EOLhyphen"/>righteous Decrees, Judgments, Orders, Rules, and other proceedings up<g ref="char:EOLhyphen"/>on Record in the Courts at Weſtminſter, will clearly demonſtrate, That the practiſers of Law are in combination to obſtruct Juſtice, and op<g ref="char:EOLhyphen"/>preſs the oppreſſed with cunning pretences of Law and Equity; and that which is worſt of all, they ſurprize and induce your Highneſs to be at above 20000 <hi>l.</hi> a year charge, in maintaining them to be like Lions, and Bears, to rend and tear your poor people in pieces.</p>
+               <p n="3">3. The Spirit ſaith, Hatred, variance, wrath, and ſtrife are damnable ſins: and, The love of money is the root of all evil: and, The getting of treaſure with a lying tongue, is a vanity toſſed to and fro of them that ſeek death: and, Lying lips are an abomination to the Lord: and, He that telleth lies ſhall not tarry in my ſight: <hi>Gal.</hi> 5.20. 1 <hi>Tim.</hi> 6.10. <hi>Prov.</hi> 21.6. <hi>Prov.</hi> 12.22. <hi>Pſal.</hi> 101, 7. Nevertheleſs, the practiſers of Law, for love of money, do encourage the people to perſevere in the damnable ſins of hatred, variance, wrath, and ſtrife; and they are accu<g ref="char:EOLhyphen"/>ſtomed to toſs lies to and fro for filthy lucre ſake, and to call good evil, and evil good; and their cuſtome in telling lies, ſpeaks them in no ca<g ref="char:EOLhyphen"/>pacity to tarry in your ſight: But they ought rather to be an abomina<g ref="char:EOLhyphen"/>tion to your Highneſs, as they are to the Holy One of Iſrael.</p>
+               <p n="4">4. The Spirit ſaith, Thou ſhalt provide out of all the people, able men, ſuch as fear God, men of truth, hating covetouſneſs, and let them judge the people at all ſeaſons: and, Judges, and Officers ſhalt thou make thee, and they ſhall judge the people with righteous Judgment, and ſhall take no reward: and, The robbery of the wicked ſhall de<g ref="char:EOLhyphen"/>ſtroy them, for they refuſe to do judgment: and, Can the Aethiopian change his skin, or the Leopard his ſpots? then may yee alſo do well that are accuſtomed to do evil. <hi>Exod.</hi> 18.21, 22. <hi>Deut.</hi> 16.18, 19. <hi>Pro.</hi>
+                  <pb facs="tcp:175813:3"/>21.7. <hi>Ier.</hi> 13.23. And the foregoing particulars intimate, that the Spi<g ref="char:EOLhyphen"/>rit levels at ſuch perſons, as Judges, and other practiſers of Law, under the notion of wicked, refuſing to do judgment; and, that their various ſorts of Fees, and other Law charges, are Robery in the Spirits ac<g ref="char:EOLhyphen"/>count; and, that through their cuſtome in ſuch Robbery and refuſing to do judgment, they are in no capacity to do good, much leſs are they ca<g ref="char:EOLhyphen"/>pable of being Judges, or other publick Officers.</p>
+               <p n="5">5. The Spirit ſaith, One <hi>Achan</hi> brought the fierce wrath of the Lord upon Iſrael: and, One <hi>Haman</hi> had well nigh confounded <hi>Aha<g ref="char:EOLhyphen"/>ſuerus</hi> and his 127 Provinces: and, God abhors ſolemn Faſts, and other tranſactions, and counts them but tything Mint and Cummin, where judgment and righteouſneſs is neglected: and, Becauſe ſentence upon an evil work is not executed ſpeedily, therefore the hearts of the ſons of men are fully ſet in them to do evil. <hi>Ioſ.</hi> 7.19. <hi>Esth.</hi> 389. <hi>Iſa.</hi> 1.11, to 18. <hi>Amos</hi> 5.21. <hi>Mat.</hi> 23.23. <hi>Luke</hi> 11.43. <hi>Eccleſ.</hi> 8.11. And wofull experience witneſſeth, that the practiſers of Law have from age to age been the <hi>Achans,</hi> and <hi>Hamans</hi> of this Land, and confounded the Powers who are fallen before your Highneſs; and now endeavour to ſurprize and induce you, to uſe that Power to obſtruct, which God hath given you to expedite, Juſtice: and becauſe they go unqueſtioned and unpuniſhed, therefore their hearts are fully ſet in them to do evil. Upon which account, they ſurprized your Highneſs and Councel, du<g ref="char:EOLhyphen"/>ring your multiplicity of other publick affairs, ſo as to admit of no Ex<g ref="char:EOLhyphen"/>ception againſt any man that was elected for the laſt Parliament; they knowing well, that their incapacity of being Members would otherwiſe have been laid open, in regard your Highneſs's righteous Principles, ex<g ref="char:EOLhyphen"/>preſſed in the Inſtrument, declare, That none but men fearing God, and of good converſation, ſhould be Members of Parliament; and their conſtant practiſe in delaying and obſtructing juſtice, and turning it to gall and wormwood, and making a prey of the widdows and father<g ref="char:EOLhyphen"/>leſs, and rending and tearing the poor people in pieces, and toſſing lies to and fro out of meer covetouſneſs, which is Idolatry, and the like, do witneſs. That they are ſo far from fearing God, that they caſt his com<g ref="char:EOLhyphen"/>mands behind their backs, and ſay by their actions, <hi>Who is the Lord that we ſhould obey him?</hi> And that which is worſt of all, As the Ship<g ref="char:EOLhyphen"/>money Judges, and other Lawyers, and their complices, were the grand Incendiaries of the late bloudy Wars, and confounded the late King, ſome going away with him, and others ſtaying in the long Parliament to play the Kings Game, whereby they poyſoned that Parliaments Councels, and at laſt confounded them; even ſo, the practiſers of Law
+<pb facs="tcp:175813:3"/>and their complices made parties to confound your Highneſs in the laſt Parliament: And thoſe practiſers of Law that pretended moſt to be your friends, ſate 5 moneths, and made not one good Law to cauſe Ju<g ref="char:EOLhyphen"/>ſtice and Judgment to run down like a mighty ſtream, to reconcile this divided and diſcontented people, and confirm your Highneſs's eſta<g ref="char:EOLhyphen"/>bliſhment in righteouſneſs.</p>
+               <p n="6">6. The Spirit ſaith, Money anſwereth all things: and, Our bleſ<g ref="char:EOLhyphen"/>ſed Saviour wrought a miracle for want of money, to pay Tribute to the Supream Magiſtrate: and, Souldiers be content with your wages. <hi>Eccleſ.</hi> 10.19. <hi>Mat.</hi> 17.27. <hi>Luke</hi> 3.14. Nevertheleſs, the practiſers of Law, and their complices (to diſcontent your Souldiers, and keep your Highneſs in want of money, and open the mouths of publick-faith per<g ref="char:EOLhyphen"/>ſons, and others to exclaim againſt you) have many moneths obſtruct<g ref="char:EOLhyphen"/>ed a Commiſſion for Diſcoveries, whereby above 200000 <hi>l.</hi> might have been brought into your Highneſs's Treaſury before this time with<g ref="char:EOLhyphen"/>out the leaſt trouble to your Highneſs or Councel. And though a ſuf<g ref="char:EOLhyphen"/>ficient Commiſſion was drawn up many weeks ſince, with great deli<g ref="char:EOLhyphen"/>beration, and good advice; yet that Commiſſion is obſtructed in ſome Lawyers hands to this day. Mean while, contrivances have been had to confer that power upon Lawyers, who have not time to do the work, or others who have no will to the work, or upon ſo few, as no good can be expected from them; when as many perſons, whoſe names are related in the Reaſons following, are ready to ſerve your Highneſs <hi>gra<g ref="char:EOLhyphen"/>tis,</hi> rather then this good work ſhould fail. Moreover, the delay already hath loſt your Highneſs above 100000 <hi>l.</hi> by the death of Concealers or Diſcoverers, or Witneſſes; and many hundred thouſand pounds more is in danger to be loſt; and hundreds of people, who have debts juſtly due from the Commonwealth by Publick faith, and otherwiſe, are ſome of them gone already, and others ready to go with ſorrow to their Graves, through want of ſatisfaction, to the great diſhonour of God, and your Highneſs, and the Commonwealth.</p>
+               <p n="7">7. The Spirit ſaith, Take all opportunities for doing good. And, Ab<g ref="char:EOLhyphen"/>ſtain from all appearance of evil. And, Have no fellowſhip with the unfruitful works of darkneſs. And with hold not good from them to whom it is due, when it is in the power of thy hand to do it. And, Woe to that man by whom the offence cometh. And, Neglect to ſtrengthen the hands of the poor and needy, was one of the ſins of So<g ref="char:EOLhyphen"/>dom, which cried to heaven for vengeance: <hi>Gal.</hi> 6.10. <hi>Heb.</hi> 13.16. 1 <hi>Theſ.</hi> 5.22. <hi>Prov.</hi> 3.27. <hi>Matth.</hi> 18.7. <hi>Ezek.</hi> 16.49. <hi>Gen.</hi> 18.20. But the practicers of Law, do commonly juſtifie the wicked, and
+<pb facs="tcp:175813:4"/>condemn the innocent, both which are an abomination to the Lord. Yea, they take all opportunities to juſtifie the wicked for a reward, and take away the righteouſneſs of the righteous from him. And that which is worſt of all, they take advantage from the multiplicity of your High<g ref="char:EOLhyphen"/>neſſes Publike affairs, and ſurprize, and induce your Highneſs to with<g ref="char:EOLhyphen"/>hold good from your oppreſſed people, in neglecting to ſtrengthen their hands, by appointing Commiſſioners to deliver them from their oppreſſors. And thus a great offence cometh by the practicers of Law, and they wilfully incur that dreadful woe, to uphold their gainful trade of ſin. For many perſons are ready and willing to ſit daily, and ſerve your Highneſs and their Countrey <hi>gratis,</hi> to hear and redreſs the com<g ref="char:EOLhyphen"/>plaints of oppreſſed people, againſt whom Juſtice hath been obſtructed in the Courts of Common Law, and Equity, and other places. But the practicers of Law, knowing well that ſuch Commiſſioners would ſoon lay open their myſtery of Iniquity, deſignedly ſay, your Highneſs muſt not exerciſe the Legiſlative power. Notwithſtanding they know, That the ſafety of the people is the ſupream Law: And that, Neceſſity brings a priviledge with it. And that your Highneſs hath bound your ſelf by Oath, to cauſe Juſtice, and Law to be equally adminiſtred. And to make Lawes and Ordinances for the Peace and welfare of the Peo<g ref="char:EOLhyphen"/>ple, until order ſhall be taken in Parliament concerning the ſame, as by the 30. Article in the Inſtrument appears. And this cleerly inti<g ref="char:EOLhyphen"/>mates. That where Parliaments, and inferiour Magiſtrates fail, your Highneſs ſtands bound by your Oath to ſupply; and the laſt Parlia<g ref="char:EOLhyphen"/>ment met, and made not one good Law for the Peace, and welfare of the People: whereby it is apparently a duty ſtill incumbent upon your Highneſs.</p>
+               <p>May it therefore pleaſe your Highneſs, to Commiſſionate all the Field Officers and Captains of your Army, to be Juſtices of Peace in every County where they are ordered to quarter, and to empower them, and the reſt of the Juſtices, to keep weekly Courts of Equity in the moſt convenient place in every County; to hear and determine all civil differences, according to Equity, and good Conſcience. And to call to their aſſiſtance one or two of the ableſt Lawyers near them, for advice in difficult caſes. Pleaſe likewiſe to grant the foreſaid Commiſ<g ref="char:EOLhyphen"/>ſion for diſcoveries, and ſeriouſly conſider the reaſons following, in order thereunto. Pleaſe further to empower ſome perſons of integrity, to hear and redreſs all obſtructions of Juſtice. And by ſo doing, God will be greatly glorified, your Highneſs highly honoured, and acquit<g ref="char:EOLhyphen"/>ted from much trouble and clamour; and the oppreſſed will be ſet free,
+<pb facs="tcp:175813:4"/>and vaſt Treaſures brought into your Exchequer: Beſides, the com<g ref="char:EOLhyphen"/>plainings in our ſtreets would ceaſe, and your Government be ſweetned with acts of Juſtice and Mercy. In order whereunto, I humbly be<g ref="char:EOLhyphen"/>ſeech your Highneſs to recollect, and ſeriouſly lay to heart, the vari<g ref="char:EOLhyphen"/>ous croſs Providences you have met withall ſince you was Protector: That your forces fled and fell before a ſhadow; And that not onely your open enemies have conſpired under Oath of ſecreſie to deſtroy you, but thoſe who were your faithful friends all along the Wars, have been, and are ſtill at variance with you. And that, The Spirit ſaith, when a mans ways pleaſe the Lord, he maketh even his Enemies to be at peace with him. And, When the Hoſt goeth forth, then keep thee from every evill work. And, Have no fellow ſhip with the unfruitful works of darkneſs. I humbly beſeech your Highneſs further to conſider, That holy <hi>Moſes</hi> did not leave a hoof in bondage; and holy <hi>Ioſhua</hi> brought <hi>Achan</hi> to publike juſtice the ſame day he was diſcovered. And, Holy <hi>Iob</hi> ſearched out the Cauſe he knew not. And, Holy <hi>David</hi> made haſte, and delayed not to keep Gods Commandements. And, That <hi>Saul</hi> loſt his Kingdome, and the late King his, by delaying ſuch obedi<g ref="char:EOLhyphen"/>ence. And that, He that doth righteouſneſs is righteous. And that, The Scribes and Phariſees ſaid, but did not. And that, Your Highneſs de<g ref="char:EOLhyphen"/>clared in <hi>April</hi> 1653. That no oppreſſion or wrong ſhould be done the people: And that, If you ſhould do the leaſt diſhonour to the name of God, it would be your confuſion, and a ſtain to the whole profeſſion of Godlineſs. And laſtly, I humbly beſeech your Highneſs to conſider; That your breath is in your noſthrils, and that you have many talents to improve, and that this night your ſoul may be taken from you, and that you muſt appear before Chriſts tribunal to give an Account of your Stewardſhip. And, that all your Honours and earth<g ref="char:EOLhyphen"/>ly enjoyments are but vanity, and will be bitterneſs in the end., unleſs God give you wiſedome from above, to let your light ſhine that men may glorifie God on ſight of your good works of judgement and righ<g ref="char:EOLhyphen"/>teouſneſs. Now the Lord make you wiſe unto ſalvation, and guide your ſpirit to redeem the time, and not to know a wicked perſon, nor ſuffer any worker of deceipt to dwell in your Houſe, nor a Liar to tar<g ref="char:EOLhyphen"/>ry in your ſight. In purſuance whereof, your Highneſs ſhall not want the daily prayers, and conſtant endeavours of</p>
+               <closer>
+                  <signed>Your Highneſſes faithful Servant, <hi>JEFFERY CORBET.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="proposal">
+               <pb facs="tcp:175813:5"/>
+               <head>Reaſons moving that your Highneſs would appoint twelve men at the least, who are of known courage, fearing God and hating cove<g ref="char:EOLhyphen"/>teonſneſs; to be Commiſsioners in the intended Commiſsion for Diſcoveries of concealed Eſtates.</head>
+               <list>
+                  <item n="1">1 WE the Subſcribers, do hereby engage to produce, and proſe<g ref="char:EOLhyphen"/>cute ſuch diſcoveries, as will bring in above ſixty thouſand pounds into the publike treaſury within ſix moneths upon the appoint<g ref="char:EOLhyphen"/>ment of ſuch Commiſſioners.</item>
+                  <item n="2">2 The Commonwealth hath already loſt above 100000. <hi>l.</hi> by the death of Concealers, or Diſcoverers, or Witneſſes, as Collonel <hi>Copley,</hi> and others can give an account: and there is great danger that much more will be loſt, unleſs ſuch a number of Commiſſioners be ſpeedily empowered, for prevention of that great miſchief.</item>
+                  <item n="3">3 Your Highneſs is in great want of money for managing your Publike Affairs, and many of your faithful friends are ready to periſh for want of their juſt debts from the Commonwealth: and there is no better way to ſupply both, then by bringing in the vaſt Treaſures that are concealed.</item>
+                  <item n="4">4 Twelve ſuch Commiſſioners may divide themſelves, and keep three or four Courts a day, and ſo diſpa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch more buſineſs in three mo<g ref="char:EOLhyphen"/>neths, then a ſingle Court can do in a whole year.</item>
+                  <item n="5">5 The delatory proceedings which muſt needs be in a ſingle Court, upon the multitude of Diſcoveries ready to be made, will give the De<g ref="char:EOLhyphen"/>linquents an opportunity to make friends and parties to obſtruct Ju<g ref="char:EOLhyphen"/>ſtice as formerly, by bribery, &amp;c. as Captain <hi>Caſtle</hi> and others can give an accompt, and alſo</item>
+               </list>
+               <closer>
+                  <signed>
+                     <hi>Your Highneſſes most humble and faithful Servants:</hi>
+                     <list>
+                        <item>JEFFERY CORBET.</item>
+                        <item>EDWARD PITT.</item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <date>1. Jan. 1655.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>We humbly conceive, That Col. <hi>Iohn Mill,</hi> Major <hi>Beak,</hi> Lieut. Col. <hi>Iohn Fenton,</hi> Major <hi>George Withers,</hi> Capt. <hi>Edw. Worger,</hi> and <hi>Samuel Richardſon,</hi> are perſons fitly qualified: And therefore pray that they may be joyned in the Commiſſion intended for the foreſaid Diſcoveries.</p>
+                  <p>
+                     <hi>The foregoing Reaſons were preſented to a Member of the Councel, the day above mentioned; as a ſea<g ref="char:EOLhyphen"/>ſonable New years guift, for your Highneſs and Councel.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175813:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
